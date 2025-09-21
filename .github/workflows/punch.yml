@@ -33,7 +33,7 @@ jobs:
         dorm_sign: ${{secrets.dorm_sign}}
         blue_sign: ${{secrets.blue_sign}}
         tencentKey: ${{secrets.tencentKey}}
-      run: python actionVersion.py
+      run: python -u actionVersion.py
 
   # User02:
   #   runs-on: ubuntu-latest
