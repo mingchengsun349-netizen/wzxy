@@ -1,6 +1,6 @@
-mail_address:  # 邮箱地址，如不使用填空
+mail_address: 2774685905@qq.com # 邮箱地址，如不使用填空
 password:  # 邮箱授权码，如不使用填空
-host: smtp@163.com # 邮箱SMTP地址
+host: smtp.qq.com # 邮箱SMTP地址
 school: 昆明理工大学 # 填写对应学校名称
 tencent_map: UOSBZ-M5VWZ-DJYX5-TIVQE-SVWPK-MCF5H # 填写腾讯地图API KEY
 
